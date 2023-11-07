@@ -1,11 +1,10 @@
-// Define an interface for the data structure
 interface ServiceItem {
     logo: string;
     title: string;
     description: string;
-  }
+}
   
-  const services: ServiceItem[] = [
+const services: ServiceItem[] = [
     {
       logo: "../images/icons/app-dev-icon.svg",
       title: "Web development",
@@ -26,7 +25,7 @@ interface ServiceItem {
       title: "Blockchain solutions",
       description: "We conduct market research to determine the optimal blockchain-based solutions to help you grow your company and achieve your business goals."
     }
-  ];
+];
   
   export default services;
   
