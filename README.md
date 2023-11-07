@@ -7,17 +7,21 @@ Follow these simple steps to get started with the project:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ImtiyaazHendricks/accenture-front-end.git
 
-   cd your-project-name
+   cd accenture-front-end
+
+# and
 
 2. npm install
- # or
+   or
    yarn install
 
+# and   
+
 3. npm run dev
-# or
-    yarn dev
+   or
+   yarn dev
 
 
 
